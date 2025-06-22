@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 public class Herradura {
     static int puntuacion1 = 0, puntuacion2 = 0;

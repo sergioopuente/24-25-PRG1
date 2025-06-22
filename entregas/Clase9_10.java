@@ -1,4 +1,5 @@
 
+
 import java.util.Scanner;
 
 public class Clase9_10 {
@@ -20,12 +21,7 @@ public class Clase9_10 {
             }
         } while (jugadaPersona < 0 || jugadaPersona > 2);
 
-        /* 
-        for(int i=0;i<50;i++){
-            jugadaOrdenador=(int)(Math.random()*100)%3;
-            System.out.println(jugadaOrdenador);
-        }
-         */
+     
         jugadaOrdenador = (int) (Math.random() * 100) % 3;
         String jugadaPersonaTexto = "";
         String jugadaOrdenadorTexto = "";
