@@ -28,7 +28,6 @@ public class AdivinaNumero {
 
 
 
-        //scanner.close();
 
 
 
